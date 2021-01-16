@@ -1,4 +1,4 @@
-,Hotel_Title,Title_URL,Address,Address_URL,City,Review,Price,Rating
+,Hotel_Title,Title_URL,Address,Address_URL,City,Review_Text,Price,Rating
 0,Grand Ibro Hotel,https://hotels.ng/hotel/34353-grand-ibro-hotel-abuja,"Wuse, Abuja - 2121 Micheal Okpara Road Opposite Shelter Plaza",https://hotels.ng/hotels-in-abuja/wuse,Wuse,"Good stay, my stay was very fine....",13000.0,7.4
 1,Power Mike Hotels ,https://hotels.ng/hotel/995346-power-mike-hotels-abuja,"Garki, Abuja - 9 Argungu Close , Off Benue Cresent, Area 1, Garki",https://hotels.ng/hotels-in-abuja/garki,Garki,The room was reasonably tidy with a very big bed that I slept in comfortably. It felt just...,5000.0,7.3
 2,New Rendezvous Hotel,https://hotels.ng/hotel/36783-new-rendezvous-hotel-abuja,"Wuse 6, Abuja - 21, Plot 188, Makeni Street, Zone 6",https://hotels.ng/hotels-in-abuja/wuse-6,Wuse 6,"Very clean room, ventilation was not too good, no en-suite facilities (convenience ). Nice...",5000.0,6.9
